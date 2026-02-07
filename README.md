@@ -1,43 +1,34 @@
 # K-WD Dashboard
+#### Preview
+ -[Demo](https://themewagon.github.io/k-wd-dashboard/)
 
-Fully responsive dashboard template built with tailwindcss & alpinejs
+#### Download
+ - [Download from ThemeWagon](https://themewagon.com/themes/free-tailwind-css-admin-dashboard-template-k-wd-dashboard/)
 
-[![GitHub license](https://img.shields.io/github/license/Kamona-WD/kwd-dashboard)](https://github.com/Kamona-WD/starter-dashboard-layout/blob/main/License.md)
-[![GitHub stars](https://img.shields.io/github/stars/Kamona-WD/kwd-dashboard)](https://github.com/Kamona-WD/kwd-dashboard/stargazers)
-
-## [See live](https://kamona-wd.github.io/kwd-dashboard/)
-
-To get started:
+## Getting Started
 
 1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/Kamona-WD/kwd-dashboard.git
-
-   cd kwd-dashboard
-   ```
+```
+git clone https://github.com/Kamona-WD/kwd-dashboard.git
+```
 
 2. Install the dependencies:
+```
+# Using npm
+npm install
 
-   ```bash
-   # Using npm
-   npm install
-
-   # Using Yarn
-   yarn
-   ```
+# Using Yarn
+yarn
+```
 
 3. Start the development server:
+```
+# Using npm
+npm run serve
 
-   ```bash
-   # Using npm
-   npm run serve
-
-   # Using Yarn
-   yarn serve
-   ```
-
-   Now you should be able to see the project running at localhost:8080.
+# Using Yarn
+yarn serve
+```
 
 4. Open `public/index.html` in your editor and start experimenting!
 
@@ -52,15 +43,13 @@ npm run production
 # Using Yarn
 yarn production
 ```
+## Author 
+```
+Design and code are completely written by Kamona-WD and the development team. 
+```
 
-After that's done, check out `./public/build/css/tailwind.css` to see the optimized output.
+## License
 
-
----
-
-## Support
-
-<a href="https://www.buymeacoffee.com/ahmedkamel" target="_blank" style="display: inline-block !important;"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
-
-#### Be careful and donate just if it is within your possibilities, because there is no refund system. And remember that you don't need to donate, it is just a free choice for you. Thank you!
-
+ - Design and Code is Copyright &copy; <a href="https://github.com/Kamona-WD" target="_blank">Kamona-WD</a>
+ - Licensed under [MIT]
+ - Distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
