@@ -1,6 +1,6 @@
 # K-WD Dashboard
 #### Preview
- -[Demo](https://themewagon.github.io/k-wd-dashboard/)
+ - [Demo](https://themewagon.github.io/k-wd-dashboard/)
 
 #### Download
  - [Download from ThemeWagon](https://themewagon.com/themes/free-tailwind-css-admin-dashboard-template-k-wd-dashboard/)
